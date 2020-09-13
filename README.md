@@ -1,6 +1,6 @@
 
 
 Built with:
-Javascript
-react
-Material-ui
+-Javascript
+-React
+-Material-ui
